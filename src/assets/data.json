@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Spinach",
+        "image": "assets/images/items/spinach.png",
+        "description": "500 Gram",
+        "price": "N250.00",
+        "qty": 5
+    },
+    {
+        "id": 2,
+        "title": "Fenugreek",
+        "image": "assets/images/items/fenugreek.png",
+        "description": "500 Gram",
+        "price": "N200.00",
+        "qty": 5
+    },
+    {
+        "id": 3,
+        "title": "Green Amaranth",
+        "image": "assets/images/items/green_amaranth.png",
+        "description": "1 Bunch",
+        "price": "N150.00",
+        "qty": 5
+    },
+    {
+        "id": 4,
+        "title": "Bitter Gourd",
+        "image": "assets/images/items/bitter_gourd.png",
+        "description": "1 KG",
+        "price": "N100.00",
+        "qty": 5
+    },
+    {
+        "id": 5,
+        "title": "Musk Melon",
+        "image": "assets/images/items/musk_melon.png",
+        "description": "1 KG",
+        "price": "N200.00",
+        "qty": 5
+    },
+    {
+        "id": 6,
+        "title": "Redish",
+        "image": "assets/images/items/raddish.png",
+        "description": "1 KG",
+        "price": "N300.00",
+        "qty": 0
+    }
+]
