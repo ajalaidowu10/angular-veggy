@@ -1,4 +1,5 @@
 # AngularVeggy
+Veggy is an e-commerce website offering a variety of vegetable products. It allows users to search for items, add them to their cart, edit cart items, and proceed to checkout.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
 
